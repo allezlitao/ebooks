@@ -73,6 +73,8 @@
 7. [代码之美](https://github.com/allezlitao/ebooks/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
 8. [高效程序员的45个习惯](https://github.com/allezlitao/ebooks/blob/master/09_other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)
 9. [从零到一]
+10. [大型网站技术架构](https://github.com/allezlitao/ebooks/blob/master/09_other/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84_%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)
+11. [编程珠玑](https://github.com/allezlitao/ebooks/blob/master/09_other/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91.pdf)
 
 ###链接
 
