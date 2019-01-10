@@ -54,12 +54,14 @@
 9. [The Linux Kernel Module Programming Guide](https://github.com/allezlitao/ebooks/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
 10. [Linux Device Drivers.3rd.Edition](https://github.com/allezlitao/ebooks/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf)
 
-###网络协议
+###网络
 1. [TCP/IP详解卷I](https://github.com/allezlitao/ebooks/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7I.pdf)
 2. [TCP/IP详解卷II](https://github.com/allezlitao/ebooks/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7II.pdf)
 3. [TCP/IP详解卷III](https://github.com/allezlitao/ebooks/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7III.pdf)
 4. [图解TCP/IP](https://github.com/allezlitao/ebooks/blob/master/04_network/%E5%9B%BE%E8%A7%A3TCP_IP_%E7%AC%AC5%E7%89%88.pdf)
 5. [HTTP权威指南](https://github.com/allezlitao/ebooks/blob/master/04_network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+6. [DPDK关键技术](https://github.com/allezlitao/ebooks/blob/master/04_network/DPDK%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF.pdf)
+7. [dpdk-programmers-guide](https://github.com/allezlitao/ebooks/blob/master/04_network/dpdk-programmers-guide.pdf)
 
 ###其它
 1. [How Google Tests Software](https://github.com/allezlitao/ebooks/blob/master/09_other/How-Google-Tests-Software.pdf)
