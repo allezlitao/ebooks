@@ -14,6 +14,7 @@
   12. [The C++ Programming Language(3rd Edition)](https://github.com/allezlitao/ebooks/blob/master/01_programming/The%20C%2B%2B%20Programming%20Language.pdf)
   13. [STL源码剖析（侯捷译）](https://github.com/allezlitao/ebooks/blob/master/01_programming/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%88%E4%BE%AF%E6%8D%B7%E8%AF%91%EF%BC%89.pdf)
   14. [深度探索C++对象模型](https://github.com/allezlitao/ebooks/blob/master/01_programming/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf)
+  15. [Qt5开发实战](https://github.com/allezlitao/ebooks/blob/master/01_programming/Qt5%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.pdf)
 - Linux
   20. [UNIX环境高级编程（中文第2版）](https://github.com/allezlitao/ebooks/blob/master/01_programming/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
   20. [The Linux Programming Interface](https://github.com/allezlitao/ebooks/blob/master/01_programming/The%20Linux%20Programming%20Interface.pdf) 
