@@ -39,6 +39,7 @@
 5. [Algorithms on Strings, Trees and Sequences](https://github.com/allezlitao/ebooks/blob/master/02_algorithm/Algorithms_on_String_Trees_and_Sequences-libre.pdf)
 6. [The Algorithm Design Manual(2nd Edition)](https://github.com/allezlitao/ebooks/blob/master/02_algorithm/The%20Algorithm%20Design%20Manual.pdf)
 7. [Hacker's Delight(2nd Edition)](https://github.com/allezlitao/ebooks/blob/master/02_algorithm/Hacker%27s%20Delight%202nd%20Edition.pdf)
+8. [算法图解](https://github.com/allezlitao/ebooks/blob/master/02_algorithm/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
 
 ###操作系统
 
